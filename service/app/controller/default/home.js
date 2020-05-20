@@ -33,7 +33,7 @@ class HomeController extends Controller {
       "FROM_UNIXTIME(article.addTime,'%Y-%m-%d %H:%i:%s' ) as addTime," +
       "article.view_count as view_count ," +
       "type.typeName as typeName ," +
-      "type.id as typeId " +
+      "ype.id as typeId " +
       "FROM article LEFT JOIN type ON article.type_id = type.Id " +
       "WHERE article.id=" +
       id;
