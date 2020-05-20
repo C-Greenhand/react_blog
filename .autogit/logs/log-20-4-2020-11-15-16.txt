@@ -1,0 +1,18 @@
+-------------------- Auto-Git Log --------------------
+		Wed May 20 2020 11:15:16 GMT+0800 (中国标准时间)
+------------------------------------------------------
+
+Modified files:
+* admin
+* blog
+* service/app/controller/default/home.js
+
+
+Created files:
+* .autogit/logs/log-20-4-2020-10-45-6.txt
+
+
+Deleted files:
+
+
+Renamed files:
