@@ -1,0 +1,17 @@
+-------------------- Auto-Git Log --------------------
+		Thu May 21 2020 11:20:00 GMT+0800 (中国标准时间)
+------------------------------------------------------
+
+Modified files:
+* admin
+* blog
+
+
+Created files:
+* .autogit/logs/log-21-4-2020-10-49-52.txt
+
+
+Deleted files:
+
+
+Renamed files:
